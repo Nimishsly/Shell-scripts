@@ -26,3 +26,5 @@ show_uptime
 check_status "http://www.google.com"
 
 echo "Finished application status check."
+
+
